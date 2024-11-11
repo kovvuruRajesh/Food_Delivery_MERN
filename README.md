@@ -82,4 +82,8 @@ We welcome contributions! Feel free to:
 📝 Report issues
 Contributions are highly appreciated!
 
+## Collabotors
+1. Rajesh
+2. Chakradhar
+
 
